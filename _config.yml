@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
+title: laura.chadw.in
+description: Laura Chadwin 1973-2026
+author: Tom Chadwin
+include: [".well-known"]
