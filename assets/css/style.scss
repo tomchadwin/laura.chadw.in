@@ -28,7 +28,7 @@ h1 {
     font-size: 250%;
     margin: 0;
     letter-spacing: 0.05em;
-    color: #c77;
+    color: #7c7;
     line-height: 1em;
     margin-bottom: 1em;
 }
@@ -37,7 +37,7 @@ h1, h2 {
 }
 h2, h3 {
     margin: 1.5em 0 0.5em;
-    color: #b66;
+    color: #6b6;
 }
 h1 + p, h2 + p, h1 + figure + p, header + figure + p {
     text-indent: 0;
@@ -46,7 +46,7 @@ h1 + p, h2 + p, h1 + figure + p, header + figure + p {
     font-size: 2.5em;
     float: left;
     padding: 0.15em;
-    color: #d99;
+    color: #9d9;
     padding-right: 0.1em;
     font-weight: normal;
     font-family: 'Julius Sans One';
@@ -80,7 +80,7 @@ em {
 }
 a {
     text-decoration: none;
-    color: #c77;
+    color: #7c7;
 }
 blockquote {
     margin-block-start: 1em;
@@ -196,7 +196,7 @@ footer nav div:first-child a::before {
     width: 2em;
     margin-left: -2em;
     content: url('/assets/pics/hand-left.svg');
-    color: #c77;
+    color: #7c7;
 }
 nav div + div {
     padding-right: 1em;
@@ -207,7 +207,7 @@ nav div + div a::after {
     width: 2em;
     margin-right: -2em;
     content: url('/assets/pics/hand-right.svg');
-    color: #c77;
+    color: #7c7;
 }
 footer > nav {
     padding-bottom: 2em;
@@ -303,10 +303,10 @@ embed {
     font-family: 'Julius Sans One', sans-serif;
     font-size: 150%;
     letter-spacing: 0.05em;
-    color: #c77;
+    color: #7c7;
     line-height: 1em;
     text-transform: uppercase;
-    color: #b66;
+    color: #6b6;
 }
 #articleList p {
     text-align: justify;
